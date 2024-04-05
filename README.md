@@ -4,12 +4,12 @@
 
 # Preivew
 
-<img src="Resources/picture (1)">
+<img src="/Resources/Picture (1).png">
 
-<img src="Resources/picture (2)">
+<img src="/Resources/Picture (2).png">
 
-<img src="Resources/picture (3)">
+<img src="/Resources/Picture (3).png">
 
-<img src="Resources/picture (4)">
+<img src="/Resources/Picture (4).png">
 
-<img src="Resources/picture (5)">
+<img src="/Resources/Picture (5).png">
