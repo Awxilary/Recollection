@@ -1,7 +1,7 @@
 /**
  * @name Recollection
  * @author Awxilary
- * @version 1.0.0
+ * @version 1.0.1
  * @description I only wrote this so i don't leave it an empty blank,That would be considered rude.
  * @authorId 725560508371173377
  * @source https://github.com/Awxilary/Recollection
@@ -10,7 +10,7 @@
 @import url(https://awxilary.github.io/Recollection/Recollection.theme.css);
 
 :root{
-    /*Link,Images,customizer*/
+    /*Images,customizer*/
 
     --Icon-color: #7630ff; /*applies only for icons*/
     --border-radius: 20px; /*Border radius applies for images and buttons.*/
